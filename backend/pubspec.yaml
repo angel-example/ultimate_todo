@@ -1,0 +1,14 @@
+description: "An easily-extensible web server framework in Dart."
+homepage: "https://github.com/angel-dart/angel"
+name: "backend"
+publish_to: "none"
+dependencies: 
+  angel_common: "^1.0.0-beta"
+  angel_configuration: "^1.0.0"
+  angel_multiserver: "^1.0.0"
+dev_dependencies: 
+  grinder: "^0.8.0"
+  http: "^0.11.3"
+  test: "^0.12.13"
+environment: 
+  sdk: ">=1.19.0"
